@@ -1,4 +1,3 @@
-# Velora-Profitability-Analysis-project.
 
 # 📊 Velora Profitability Analysis
 ## Revenue Growth vs Profit Margin Decline (2024–2025)

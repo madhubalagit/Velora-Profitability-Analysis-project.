@@ -57,43 +57,6 @@ The analysis focuses on the following business areas:
 
 ---
 
-## Project Resources
-
-### EXCEL
-
----
-
-### SQL
-
-Data Exploration & Cleaning
-
-```
-sql/01_data_exploration.sql
-sql/02_data_cleaning.sql
-```
-
-Business Analysis Queries
-
-```
-sql/03_business_analysis.sql
-```
-
----
-
-### Power BI Dashboard
-
-```
-powerbi/Velora_Profitability_Dashboard.pbix
-```
-
-Dashboard Image
-
-```
-images/dashboard.png
-```
-
----
-
 # Data Structure & Initial Checks
 
 The analysis is based on a **Star Schema** consisting of three tables.
@@ -199,8 +162,6 @@ Higher sales did not translate into stronger profitability.
 
 Revenue growth alone is not a reliable indicator of business success. Profitability must also be monitored.
 
-*(Insert Revenue vs Profit visual)*
-
 ---
 
 # Category 2 — Regional Performance
@@ -230,8 +191,6 @@ Regional pricing strategy appears inconsistent.
 ### Business Interpretation
 
 Discounting practices differ significantly across regions and directly influence profitability.
-
-*(Insert Region visuals)*
 
 ---
 
@@ -263,8 +222,6 @@ Consumer customers generated the lowest profit margin.
 
 Both product mix and customer segment significantly influence overall profitability.
 
-*(Insert Category, Product and Customer Segment visuals)*
-
 ---
 
 # Category 4 — Discount Analysis
@@ -294,8 +251,6 @@ Aggressive discounting is the primary driver of declining profitability.
 ### Business Interpretation
 
 Current discount strategies increase revenue but reduce long-term profitability.
-
-*(Insert Discount Analysis visual)*
 
 ---
 
@@ -449,9 +404,7 @@ Velora-Profitability-Analysis/
 │
 ├── data/
 ├── sql/
-│   ├── 01_data_exploration.sql
-│   ├── 02_data_cleaning.sql
-│   └── 03_business_analysis.sql
+│   └── Business_analysis.sql
 │
 ├── powerbi/
 │   └── Velora_Profitability_Dashboard.pbix

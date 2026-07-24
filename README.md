@@ -402,16 +402,18 @@ No real customer or company data is included in this project.
 ```
 Velora-Profitability-Analysis/
 │
-├── data/
-├── sql/
-│   └── Business_analysis.sql
-│
 ├── powerbi/
 │   └── Velora_Profitability_Dashboard.pbix
+├── Data/
+│   └── Orders_2024,2025
+|   |__ Product
+|   |__ customers
 │
-├── images/
-│   ├── dashboard.png
-│   └── data_model.png
+├── Document/
+│   └── Project_report
+│
+├── SQL/
+│   ├── Busniess_sql_queries
 │
 └── README.md
 ```

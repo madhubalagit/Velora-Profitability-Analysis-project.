@@ -1,0 +1,49 @@
+Product_ID,Product_Name,Category,Sub_Category
+P0001,Laptop Essential 967,Technology,Laptop
+P0002,Laptop Advanced 467,Technology,Laptop
+P0003,Laptop Advanced 319,Technology,Laptop
+P0004,Laptop Premium 597,Technology,Laptop
+P0005,Monitor Compact 436,Technology,Monitor
+P0006,Monitor Elite 361,Technology,Monitor
+P0007,Monitor Elite 555,Technology,Monitor
+P0008,Monitor Basic 296,Technology,Monitor
+P0009,Keyboard Basic 344,Technology,Keyboard
+P0010,Keyboard Deluxe 532,Technology,Keyboard
+P0011,Keyboard Deluxe 578,Technology,Keyboard
+P0012,Keyboard Elite 767,Technology,Keyboard
+P0013,Mouse Basic 780,Technology,Mouse
+P0014,Mouse Premium 504,Technology,Mouse
+P0015,Mouse Compact 533,Technology,Mouse
+P0016,Mouse Deluxe 106,Technology,Mouse
+P0017,Chair Compact 647,Furniture,Chair
+P0018,Chair Pro 479,Furniture,Chair
+P0019,Chair Pro 368,Furniture,Chair
+P0020,Chair Standard 135,Furniture,Chair
+P0021,Desk Premium 167,Furniture,Desk
+P0022,Desk Deluxe 801,Furniture,Desk
+P0023,Desk Basic 768,Furniture,Desk
+P0024,Desk Standard 610,Furniture,Desk
+P0025,Table Advanced 418,Furniture,Table
+P0026,Table Standard 807,Furniture,Table
+P0027,Table Pro 186,Furniture,Table
+P0028,Table Essential 454,Furniture,Table
+P0029,Bookcase Classic 958,Furniture,Bookcase
+P0030,Bookcase Essential 893,Furniture,Bookcase
+P0031,Bookcase Classic 911,Furniture,Bookcase
+P0032,Bookcase Standard 911,Furniture,Bookcase
+P0033,Paper Advanced 557,Office Supplies,Paper
+P0034,Paper Standard 183,Office Supplies,Paper
+P0035,Paper Premium 445,Office Supplies,Paper
+P0036,Paper Pro 661,Office Supplies,Paper
+P0037,Binder Basic 574,Office Supplies,Binder
+P0038,Binder Premium 795,Office Supplies,Binder
+P0039,Binder Elite 386,Office Supplies,Binder
+P0040,Binder Premium 577,Office Supplies,Binder
+P0041,Storage Box Elite 636,Office Supplies,Storage Box
+P0042,Storage Box Basic 350,Office Supplies,Storage Box
+P0043,Storage Box Standard 112,Office Supplies,Storage Box
+P0044,Storage Box Deluxe 977,Office Supplies,Storage Box
+P0045,Notebook Essential 145,Office Supplies,Notebook
+P0046,Notebook Compact 909,Office Supplies,Notebook
+P0047,Notebook Compact 665,Office Supplies,Notebook
+P0048,Notebook Basic 442,Office Supplies,Notebook

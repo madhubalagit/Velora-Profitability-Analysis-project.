@@ -431,4 +431,4 @@ Madhubala B
 
 Github Profile [link](https://github.com/madhubalagit)
 
-Linkedin profile -
+Linkedin profile [Link](https://www.linkedin.com/in/madhubalab/)

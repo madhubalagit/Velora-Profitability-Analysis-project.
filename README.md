@@ -450,6 +450,6 @@ The analysis showed that although Velora achieved strong revenue growth, profita
 
 Madhubala B
 
-Github Profile link-
+Github Profile [link](https://github.com/madhubalagit)
 
 Linkedin profile -

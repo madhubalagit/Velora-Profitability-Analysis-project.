@@ -134,4 +134,20 @@ SUM(profit)/SUM(sales)*100,2) profit_margin
 FROM orders
 GROUP BY year, discount_band;
 
+-- Validate Total Orders
+SELECT COUNT(*)
+FROM orders;
+-- Validate Revenue
+SELECT ROUND(SUM(sales),2)
+FROM orders;
+
+-- Validate Profit
+SELECT ROUND(SUM(profit),2)
+FROM orders;
+
+-- Validate Distinct Customers
+SELECT COUNT(DISTINCT customer_id)
+FROM orders;
+
+
 

@@ -62,6 +62,10 @@ The analysis focuses on the following business areas:
 
 ## Project Resources
 
+### EXCEL
+
+---
+
 ### SQL
 
 Data Exploration & Cleaning
@@ -140,8 +144,8 @@ Contains
 ---
 
 ## Entity Relationship Diagram
+<img width="691" height="341" alt="Screenshot 2026-07-24 130613" src="https://github.com/user-attachments/assets/fb17195c-03d1-4b5e-a038-3ecaeaab0c66" />
 
-![ER Diagram]<img width="691" height="341" alt="Screenshot 2026-07-24 130613" src="https://github.com/user-attachments/assets/1f77a6ca-2574-4c7a-a587-f63e7e2d8aa7" />
 
 ---
 
@@ -163,7 +167,7 @@ These findings indicate that revenue growth was achieved through aggressive disc
 
 ## Dashboard
 
-![Dashboard]<img width="596" height="338" alt="Screenshot 2026-07-24 132856" src="https://github.com/user-attachments/assets/3e9fbdda-ddc1-4efc-ad81-b615bb214d74" />
+<img width="596" height="338" alt="Screenshot 2026-07-24 132856" src="https://github.com/user-attachments/assets/3e9fbdda-ddc1-4efc-ad81-b615bb214d74" />
 
 
 ---
@@ -385,10 +389,19 @@ The following assumptions were made during the analysis.
 - Records with missing Customer Segment were excluded from customer-level analysis.
 - Financial values are reported in USD.
 - The analysis includes transactions from 2024 and 2025 only.
+- The dataset is synthetic and was created for educational and portfolio purposes.
+- It does not represent any real company or customer information.
+- Business scenarios and relationships were designed to simulate real-world retail operations.
 
 ---
 
 # Skills Demonstrated
+
+### Excel
+- Data Cleaning
+- Power Query
+- Xlookup
+- Text Function
 
 ### SQL
 

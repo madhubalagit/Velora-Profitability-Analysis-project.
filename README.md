@@ -3,7 +3,7 @@
 # 📊 Velora Profitability Analysis
 ## Revenue Growth vs Profit Margin Decline (2024–2025)
 
-![Dashboard](images/dashboard.png)
+![Dashboard]
 
 ---
 
@@ -19,7 +19,7 @@ Between 2024 and 2025, the executive team observed that although revenue continu
 
 ## Business Problem
 
-Revenue increased by **15.4%** between 2024 and 2025, but profit margin declined from **18.88%** to **14.19%**.
+Revenue increased by **15.4%** between 2024 and 2025, but profit margin declined from **18.88%** to **13.01%**.
 
 Management wanted to understand:
 
@@ -141,8 +141,7 @@ Contains
 
 ## Entity Relationship Diagram
 
-![ER Diagram](<img width="691" height="341" alt="image" src="https://github.com/user-attachments/assets/945a68c2-3629-4607-a1d1-ced94488bf11" />
-)
+![ER Diagram]<img width="691" height="341" alt="Screenshot 2026-07-24 130613" src="https://github.com/user-attachments/assets/1f77a6ca-2574-4c7a-a587-f63e7e2d8aa7" />
 
 ---
 
@@ -164,7 +163,8 @@ These findings indicate that revenue growth was achieved through aggressive disc
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard]<img width="596" height="338" alt="Screenshot 2026-07-24 132856" src="https://github.com/user-attachments/assets/3e9fbdda-ddc1-4efc-ad81-b615bb214d74" />
+
 
 ---
 

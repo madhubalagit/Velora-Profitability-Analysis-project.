@@ -3,8 +3,6 @@
 # 📊 Velora Profitability Analysis
 ## Revenue Growth vs Profit Margin Decline (2024–2025)
 
-![Dashboard]
-
 ---
 
 # Project Background
@@ -190,7 +188,7 @@ Profit increased only slightly compared with revenue.
 
 ### Insight 3
 
-Profit margin declined from **18.88%** to **14.19%**.
+Profit margin declined from **18.88%** to **13.01%**.
 
 ---
 
@@ -389,11 +387,25 @@ The following assumptions were made during the analysis.
 - Records with missing Customer Segment were excluded from customer-level analysis.
 - Financial values are reported in USD.
 - The analysis includes transactions from 2024 and 2025 only.
-- The dataset is synthetic and was created for educational and portfolio purposes.
-- It does not represent any real company or customer information.
-- Business scenarios and relationships were designed to simulate real-world retail operations.
 
 ---
+# Dataset
+
+This project uses a **synthetic retail dataset** created for portfolio and educational purposes.
+
+The dataset was generated with AI and then reviewed and modified to simulate realistic business scenarios, including:
+
+- Two years of sales data (2024–2025)
+- Multiple regions
+- Customer segments
+- Product categories
+- Seasonal sales patterns
+- Discount strategies
+- Profit and margin variations
+
+After generation, the data was cleaned and transformed using **Excel Power Query** before being imported into **MySQL** for analysis and visualized in **Power BI**.
+
+No real customer or company data is included in this project.
 
 # Skills Demonstrated
 
